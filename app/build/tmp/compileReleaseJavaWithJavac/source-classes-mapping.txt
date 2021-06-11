@@ -1,0 +1,4 @@
+com/example/android_docker/MainActivity.java
+ com.example.android_docker.MainActivity
+com/example/android_docker/BuildConfig.java
+ com.example.android_docker.BuildConfig

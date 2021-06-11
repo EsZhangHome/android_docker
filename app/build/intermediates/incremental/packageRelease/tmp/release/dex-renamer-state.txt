@@ -1,0 +1,4 @@
+#Sat Jun 12 00:17:57 CST 2021
+base.0=E\:\\AndroidStudioProjects\\FlutterProject\\android_docker\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
